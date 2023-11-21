@@ -1,0 +1,7 @@
+# Dataset directories
+
+/images/
+/original_data/
+/original_data/grayscale/
+/unidentified_images/
+/identified_images/

@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition-ML
+# Handwritten-Digit-Recognition-CNN

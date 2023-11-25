@@ -1,6 +1,6 @@
-# Handwritten Digit Recognition with Convolutional Neural Networks (CNN)
+# Handwritten Digit Recognition with Convolutional Neural Network (CNN)
 
-This repository contains scripts and resources for recognizing handwritten digits using Convolutional Neural Networks (CNNs). The project consists of three main components:
+This repository contains scripts and resources for recognizing handwritten digits using Convolutional Neural Network (CNN). The project consists of three main components:
 
 ## 1. Data Preparation
 The script in the `convert images to grayscale.py` converts the images from rgb to grayscale.
